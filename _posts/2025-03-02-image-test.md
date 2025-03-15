@@ -13,5 +13,4 @@ tags:
 
 # EKS Cluster
 
-<img src="/assets/images/EKS.png" width="40%" height="40%" title="제목" alt="아무거나"/> 
-<img src="/assets/images/EKS.png" title="제목2" alt="아무거나2"/> 
+<img src="/assets/images/EKS.png" title="EKS" alt="EKS"/> 
