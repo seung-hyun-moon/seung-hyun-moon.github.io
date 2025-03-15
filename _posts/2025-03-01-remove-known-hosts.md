@@ -1,3 +1,17 @@
+---
+layout: post
+title: "Remove Known Hosts Entry"
+subtitle: "testing blog post!"
+background: '/img/posts/01.jpg'
+
+categories:
+  - TEST-CATEGOTY
+tags:
+  - Linux
+  - SSH
+  - Security
+---
+
 # How to Remove Known Hosts Entry on Windows and Linux
 
 ## Introduction

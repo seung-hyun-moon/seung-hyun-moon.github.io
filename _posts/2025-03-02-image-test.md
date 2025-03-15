@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Web Scraping"
+title: "EKS Cluster Example Architecture"
 subtitle: "testing blog post!"
-background: '/img/posts/01.jpg'
+background: '/assets/images/background.jpg'
+
+categories:
+  - TEST-CATEGOTY
+tags:
+  - AWS
+  - Kubernetes
 ---
 
 # EKS Cluster
 
-![testimage]("/assests/images/EKS.png")
-![testimage2](/assests/images/EKS.png)
-![Image Alt 텍스트]({{"/assets/img/image.png"| relative_url}})
-
-<img src="/assets/images/EKS.png" width="90%" height="90%" title="제목" alt="아무거나"/> 
+<img src="/assets/images/EKS.png" width="40%" height="40%" title="제목" alt="아무거나"/> 
+<img src="/assets/images/EKS.png" title="제목2" alt="아무거나2"/> 
