@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "The Moon Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "My tech journaling"
 description              : "An amazing website."
 url                      : "https://seung-hyun-moon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "SeungHyun Moon"
-  avatar           : "/assets/images/devsecops.png"
-  bio              : "I am an **amazing** person."
+  avatar           : ""
+  bio              : "Cloud DevOps Engineer, passionate about process improvement and automation.\n When I'm not engineering systems, you can find me at the beach or a terrace under the sun."
   location         : "Barcelona, Spain"
   email            : code.sh.moon@gmail.com
   links:
