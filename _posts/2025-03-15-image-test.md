@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Difference Between Shallow Clone and Partial Clone"
 subtitle: "testing blog post!"
 background: '/assets/images/background.jpg'

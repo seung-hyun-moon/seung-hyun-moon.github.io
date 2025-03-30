@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Remove Known Hosts Entry"
 subtitle: "testing blog post!"
 background: '/img/posts/01.jpg'

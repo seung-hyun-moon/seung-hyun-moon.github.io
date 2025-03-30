@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "EKS Cluster Example Architecture"
 subtitle: "testing blog post!"
 background: '/assets/images/background.jpg'

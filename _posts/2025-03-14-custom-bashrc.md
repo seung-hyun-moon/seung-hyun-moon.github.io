@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Customizing Git Prompt"
 subtitle: "testing blog post!"
 background: '/assets/images/background.jpg'
